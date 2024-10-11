@@ -28,8 +28,8 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 1. Clone o repositório:
 
     ``` sh
-    git clone https://github.com/usuario/tarefas-app.git
-    cd tarefas-app
+    git clone https://github.com/Jaylton/todo_lists_ionic_app.git
+    cd todo_lists_ionic_app
     ```
 
 2. Instale as dependências:
